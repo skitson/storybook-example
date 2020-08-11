@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `yarn storybook`
+
+Runs Storybook and will open [http://localhost:6006/](http://localhost:6006/) in the browser.
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
